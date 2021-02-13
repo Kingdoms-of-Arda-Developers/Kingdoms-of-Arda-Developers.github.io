@@ -1,2 +1,2 @@
 # Kingdoms-of-Arda-Developers.github.io
-A documentation for Bannerlord Modding
+A repo containing documentation for Bannerlord Modding
